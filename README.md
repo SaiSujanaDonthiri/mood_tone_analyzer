@@ -1,10 +1,10 @@
-# 🎵 Mood Tone Analyzer Web App
+# Mood Tone Analyzer Web App
 
 A simple and interactive web application built using **Flask** and **TextBlob** that analyzes the sentiment of user-input text and displays the mood using emojis (😊 😢 😐). The app also tracks and displays mood trends in a clean interface.
 
 ---
 
-## 🧠 Features
+## Features
 
 - Analyze tone as Happy, Sad, or Neutral
 - Emoji-based mood feedback
@@ -14,7 +14,7 @@ A simple and interactive web application built using **Flask** and **TextBlob** 
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Clone or Download
 
@@ -40,7 +40,7 @@ Visit: `http://127.0.0.1:5000`
 
 ---
 
-## 📝 Example
+## Example
 
 **Input**:  
 ```text
@@ -52,7 +52,7 @@ I am so happy with how things are going!
 
 ---
 
-## 📁 File Descriptions
+## File Descriptions
 
 | File/Folder     | Description                        |
 |----------------|------------------------------------|
@@ -64,7 +64,7 @@ I am so happy with how things are going!
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 - Python 3.x
 - Flask
@@ -77,7 +77,7 @@ pip install flask textblob
 
 ---
 
-## 📚 Technologies Used
+## Technologies Used
 
 - Python
 - Flask (Backend)
@@ -86,15 +86,7 @@ pip install flask textblob
 - Chart.js *(optional, for dashboard features)*
 
 ---
+## Author
 
-## 🔖 License
+Sai Sujana Donthiri
 
-MIT License  
-Use and modify this project freely.
-
----
-
-## 🙌 Author
-
-**Your Name**  
-GitHub: [https://github.com/your-username](https://github.com/your-username)
